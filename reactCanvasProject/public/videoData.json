@@ -1,0 +1,19 @@
+[
+  {
+    "index": 0,
+    "sentence": "This is a simple Javascript test",
+    "textPosition": "middle-center",
+    "textAnimation": "typing",
+    "media": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "duration": 3
+  },
+  {
+    "index": 1,
+    "sentence": "Here comes the video!",
+    "textPosition": "top-right",
+    "textAnimation": "blink",
+    "media": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "duration": 5
+  }
+]
+
