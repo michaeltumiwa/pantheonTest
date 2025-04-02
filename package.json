@@ -1,5 +1,13 @@
 {
   "dependencies": {
-    "react-blink-text": "^1.0.5"
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "react-blink-text": "^1.0.5",
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.17"
   }
 }
