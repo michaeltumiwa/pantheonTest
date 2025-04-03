@@ -1,4 +1,4 @@
-# PantheonTest - Dockerized Application
+# Pantheon Project
 
 ## Overview
 This project contains a **frontend** and **backend** that are fully **dockerized** for easy deployment. You can use `docker compose` to start both services with a single command. This makes it easy for anyone to test and run the application locally.
