@@ -71,10 +71,6 @@ docker compose down
 
 This will stop the containers and clean up any resources.
 
-## Contributing
-
-If you want to contribute to this project, feel free to fork it and create a pull request. Please make sure to follow the existing structure of the project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
